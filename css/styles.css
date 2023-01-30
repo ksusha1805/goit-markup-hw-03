@@ -23,7 +23,7 @@ html{
 height: 2590px;
 }
 
-h1, h2, h3, h4, h5, h6, p{
+h1, h2, h3, h4, h5, h6, p, ul{
     margin: 0px;
 }
 
@@ -369,3 +369,7 @@ padding-top: 100px;
     letter-spacing: 0.02em;
     color: #E7E9FC;
         }
+
+.flexbox-container{
+    display: flex;
+}
